@@ -41,8 +41,8 @@ class ClientesFixture extends TestFixture
                 'nome' => 'Lorem ipsum dolor sit amet',
                 'produto_id' => 1,
                 'categoria_id' => 1,
-                'created' => '2021-08-04',
-                'modified' => '2021-08-04',
+                'created' => '2021-08-10',
+                'modified' => '2021-08-10',
             ],
         ];
         parent::init();
